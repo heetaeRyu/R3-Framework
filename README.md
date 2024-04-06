@@ -21,6 +21,10 @@ Addressables: https://docs.unity3d.com/Packages/com.unity.addressables@2.0/manua
 
 Sprite Atlas: https://docs.unity3d.com/kr/2021.3/Manual/class-SpriteAtlas.html
 
+Memory Profiler: https://docs.unity3d.com/Packages/com.unity.memoryprofiler@1.1/manual/index.html
+
+Profile Analyzer: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
+
 ## Free Assets
 Rider Flow: https://assetstore.unity.com/packages/tools/level-design/riderflow-218574
 
