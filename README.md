@@ -17,14 +17,14 @@ Input System: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.8/manual
 
 TextMesh Pro: https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/index.html
 
-# 무료 에셋
+# Free Assets
 Rider Flow: https://assetstore.unity.com/packages/tools/level-design/riderflow-218574
 
 Prime Tween: https://assetstore.unity.com/packages/tools/animation/primetween-high-performance-animations-and-sequences-252960
 
 IngameDebugConsole: https://github.com/yasirkula/UnityIngameDebugConsole
 
-# 유로 에셋
+# Paid Assets
 APK 라이브 스크립트 갱신: https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380
 
 에디터 스크립트 갱신: https://assetstore.unity.com/packages/tools/utilities/hot-reload-edit-code-without-compiling-254358
