@@ -25,6 +25,8 @@ Memory Profiler: https://docs.unity3d.com/Packages/com.unity.memoryprofiler@1.1/
 
 Profile Analyzer: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
 
+Newtonsoft Json: https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.2/manual/index.html
+
 ## Free Assets
 Rider Flow: https://assetstore.unity.com/packages/tools/level-design/riderflow-218574
 
