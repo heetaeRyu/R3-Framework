@@ -47,3 +47,5 @@ Console Enhanced Pro: https://assetstore.unity.com/packages/tools/utilities/cons
 
 ## TODO
 Newtonsoft Json -> System.Text.Json 대체 근거 추적 (https://www.linkedin.com/pulse/systemtextjson-vs-newtonsoftjson-marlon-dedakis)
+
+string 대체 고려 -> https://github.com/Cysharp/ZString
