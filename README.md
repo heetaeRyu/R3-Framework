@@ -10,6 +10,8 @@ UniTask v2.5.4: https://github.com/Cysharp/UniTask
 
 Message Pipe v1.8.0: https://github.com/Cysharp/MessagePipe
 
+NaughtyAttributes: https://github.com/dbrizov/NaughtyAttributes?tab=readme-ov-file
+
 ## Unity Pakages
 Adaptive Performance: https://docs.unity3d.com/Packages/com.unity.adaptiveperformance@5.1/manual/index.html
 
