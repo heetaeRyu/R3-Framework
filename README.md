@@ -17,6 +17,8 @@ Input System: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.8/manual
 
 TextMesh Pro: https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/index.html
 
+Addressables: https://docs.unity3d.com/Packages/com.unity.addressables@2.0/manual/index.html
+
 ## Free Assets
 Rider Flow: https://assetstore.unity.com/packages/tools/level-design/riderflow-218574
 
