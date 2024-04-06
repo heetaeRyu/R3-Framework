@@ -19,6 +19,8 @@ TextMesh Pro: https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual
 
 Addressables: https://docs.unity3d.com/Packages/com.unity.addressables@2.0/manual/index.html
 
+Sprite Atlas: https://docs.unity3d.com/kr/2021.3/Manual/class-SpriteAtlas.html
+
 ## Free Assets
 Rider Flow: https://assetstore.unity.com/packages/tools/level-design/riderflow-218574
 
