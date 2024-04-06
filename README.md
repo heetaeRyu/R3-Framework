@@ -1,5 +1,5 @@
 # UnityBaseProject
-유니티로 개발을 시작할 때 사용하는 기반 코드. 유료 에셋은 저장소에 포함되어 있지 않습니다.
+유니티로 개발을 시작할 때 사용하는 기반. 유료 에셋은 저장소에 포함되어 있지 않습니다.
 
 ## Open Sources
 NuGet For Unity v4.0.2: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file
