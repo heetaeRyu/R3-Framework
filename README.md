@@ -1,7 +1,7 @@
 # UnityBaseProject
 유니티로 개발을 시작할 때 사용하는 기반. 유료 에셋은 저장소에 포함되어 있지 않습니다.
 
-- unity version: 2022.3.23f1
+- Unity Version: 2022.3.23f1
 - Api Compatibility Level: .NET Framework
 - Active Input Handling: Input System Package (New)
 - External Tools: Rider 2023.3.4
