@@ -42,3 +42,6 @@ APK 라이브 스크립트 갱신: https://assetstore.unity.com/packages/tools/u
 코드 난독화: https://assetstore.unity.com/packages/tools/utilities/obfuscator-48919
 
 Console Enhanced Pro: https://assetstore.unity.com/packages/tools/utilities/console-enhanced-pro-11521
+
+## TODO
+Newtonsoft Json -> System.Text.Json 대체 근거 추적 (https://www.linkedin.com/pulse/systemtextjson-vs-newtonsoftjson-marlon-dedakis)
