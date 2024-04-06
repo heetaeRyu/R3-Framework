@@ -45,6 +45,8 @@ APK 라이브 스크립트 갱신: https://assetstore.unity.com/packages/tools/u
 
 Console Enhanced Pro: https://assetstore.unity.com/packages/tools/utilities/console-enhanced-pro-11521
 
+Cross-Platform Native Plugins : Essential Kit (Mobile - iOS & Android): https://assetstore.unity.com/packages/tools/integration/cross-platform-native-plugins-essential-kit-mobile-ios-android-140111
+
 ## TODO
 Newtonsoft Json -> System.Text.Json 대체 근거 추적 (https://www.linkedin.com/pulse/systemtextjson-vs-newtonsoftjson-marlon-dedakis)
 
