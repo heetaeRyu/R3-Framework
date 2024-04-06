@@ -4,7 +4,7 @@
 # Open Sources
 NuGet For Unity v4.0.2: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file
 
-R3 1.1.11: https://github.com/Cysharp/R3?tab=readme-ov-file
+R3 v1.1.11: https://github.com/Cysharp/R3?tab=readme-ov-file
 
 UniTask v2.5.4: https://github.com/Cysharp/UniTask
 
