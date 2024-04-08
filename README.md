@@ -7,13 +7,13 @@
 - External Tools: Rider 2023.3.4
 
 ## Open Sources
-NuGet For Unity v4.0.2: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file
-
 R3 v1.1.11: https://github.com/Cysharp/R3?tab=readme-ov-file
 
 UniTask v2.5.4: https://github.com/Cysharp/UniTask
 
 Message Pipe v1.8.0: https://github.com/Cysharp/MessagePipe
+
+NuGet For Unity v4.0.2: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file
 
 NaughtyAttributes v2.1.4: https://github.com/dbrizov/NaughtyAttributes?tab=readme-ov-file
 
