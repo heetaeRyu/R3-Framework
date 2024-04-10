@@ -1,0 +1,12 @@
+﻿public class StartupCommand : StartupCommandBase
+{
+	protected override void InitializeModules()
+	{
+		Debug.Log("Initialize Command");
+		//Command
+		//this.Facade.RegisterCommand({Command});
+		
+		//Proxy
+		//this.Facade.RegisterProxy({Proxy});
+	}
+}

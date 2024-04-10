@@ -1,0 +1,16 @@
+{
+    "name": "R3Framework.RuntimeTests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9c8df5b1ceea2434189ad3761e6cf891"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
