@@ -6,6 +6,13 @@
 - Active Input Handling: Input System Package (New)
 - External Tools: Rider 2023.3.4
 
+## TO-DO
+아키텍처 설명 추가
+AssemblyInfo 설명 + 블로그 글 추가
+디버깅 줄 변경 블로그 글 추가
+더티 플래그 제거 블로그 글 추가
+bool 변수를 통한 if 문 클린 코드 작성 블로그 글 추가
+
 ## Open Sources
 R3 v1.1.11: https://github.com/Cysharp/R3?tab=readme-ov-file
 
