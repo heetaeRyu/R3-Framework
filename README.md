@@ -24,6 +24,8 @@ NuGet For Unity v4.0.2: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-o
 
 NaughtyAttributes v2.1.4: https://github.com/dbrizov/NaughtyAttributes?tab=readme-ov-file
 
+Unity-Editor-Toolbox v0.12.11: https://github.com/arimger/Unity-Editor-Toolbox
+
 ## Unity Pakages
 Adaptive Performance: https://docs.unity3d.com/Packages/com.unity.adaptiveperformance@5.1/manual/index.html
 
