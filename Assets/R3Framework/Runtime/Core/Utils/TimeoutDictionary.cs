@@ -16,7 +16,7 @@ namespace Netmarble.Core
             private void OnElapsed(object sender, ElapsedEventArgs e)
             {
                 _timer.Stop();
-                CoreUtil.MainThreadCall(() => { _expirationCallback?.Invoke(this); }).Forget();
+                CoreUtil.MainThreadCallAsync(() => { _expirationCallback?.Invoke(this); });
             }
 
             public Expirable(T value, int expiration, Action<Expirable<T>> expirationCallback)
