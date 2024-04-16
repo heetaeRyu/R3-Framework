@@ -2,21 +2,21 @@
 
 namespace Netmarble.Core
 {
-	public class DataObject : MonoBehaviour
+	public class MonoBehaviourObject : MonoBehaviour
 	{
-		private static DataObject _instance;
+		private static MonoBehaviourObject _instance;
 
-		public static DataObject To
+		public static MonoBehaviourObject To
 		{
 			get
 			{
 				if (!_instance)
 				{
-					GameObject game = new GameObject("DataObject")
+					GameObject game = new GameObject("MonoBehaviourObject")
 					{
 						isStatic = true
 					};
-					_instance = game.AddComponent<DataObject>();
+					_instance = game.AddComponent<MonoBehaviourObject>();
 					_instance.GameObject = game;
 
 					if (Application.isPlaying) DontDestroyOnLoad(game);

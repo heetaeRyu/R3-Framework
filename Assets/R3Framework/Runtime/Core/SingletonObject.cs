@@ -48,7 +48,7 @@ namespace Netmarble.Core
                         {
                             if (!_instance)
                             {
-                                _instance = DataObject.To.GameObject.AddComponent<Type>();
+                                _instance = MonoBehaviourObject.To.GameObject.AddComponent<Type>();
                             }
                         }
 

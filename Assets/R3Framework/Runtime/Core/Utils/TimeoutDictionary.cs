@@ -8,7 +8,6 @@ namespace Netmarble.Core
     {
         private class Expirable<T>
         {
-
             private readonly T _value;
             private readonly Timer _timer;
             private readonly Action<Expirable<T>> _expirationCallback;
