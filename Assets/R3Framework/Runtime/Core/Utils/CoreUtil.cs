@@ -6,7 +6,12 @@ namespace Netmarble.Core
 {
 	public static class CoreUtil
 	{
-		public static async UniTaskVoid MainThreadCall(Action listener)
+		public static void MainThreadCallAsync(Action listener)
+		{
+			MainThreadCallAwait(listener).Forget();
+		}
+		
+		public static async UniTask MainThreadCallAwait(Action listener)
 		{
 			await UniTask.SwitchToMainThread();
 			try
